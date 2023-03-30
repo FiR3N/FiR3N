@@ -1,4 +1,18 @@
-### Hi there 👋
+# Hi👋. My name is Vladislav Kosmach
+---
+## I'm FrontEnd developer.
+---
+* 🌍  I'm based in Molodechno, Belarus
+* 🖥️  My portfolio should be here
+* 🧠  Currently learning Next.js and doing graduate work for my colledge
+* 🤝  I'm open to collaborating on interesting projects as a developer
+
+### Skills
+[![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
+[![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)]https://www.w3.org/TR/CSS/#css)
+[![SASS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg)](https://sass-lang.com/)
+[![JS]https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![REACT](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)](https://reactjs.org/)
 
 <!--
 **FiR3N/FiR3N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
