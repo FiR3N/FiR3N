@@ -1,7 +1,7 @@
 # Hi👋. My name is Vladislav Kosmach
-___
+__
 ## I am FrontEnd developer.
-___
+__
 * 🌍  I'm based in Molodechno, Belarus
 * 🖥️  My portfolio should be here
 * 🧠  Currently learning Next.js and doing graduate work for my colledge
