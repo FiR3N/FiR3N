@@ -2,7 +2,7 @@
 ## I am FrontEnd developer.
 * 🌍  I'm based in Molodechno, Belarus
 * 🖥️  [My portfolio](https://portfolio-rosy-ten-60.vercel.app/)
-* 🧠  Currently learning Next.js and doing graduate work for my colledge
+* 🧠  I'm currently job hunting. 
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
