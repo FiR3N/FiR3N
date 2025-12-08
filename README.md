@@ -1,5 +1,5 @@
 # Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Vladislav Kosmach
-## I am FrontEnd developer.
+## I am frontend developer.
 * 🌍  I'm based in Molodechno, Belarus
 * 🖥️  [My portfolio](https://portfolio-rosy-ten-60.vercel.app/)
 * 🧠  I'm currently job hunting. 
